@@ -1,0 +1,18 @@
+.arrowbtn{
+    background-color: transparent;
+    border:none;
+}
+.outlet{
+    position: absolute;
+    margin-left: 240px;
+}
+.dropdown-toggle::after {
+    display: none !important; 
+    border: none;
+    outline: 0!important;
+  }
+  .dropdown-toggle,.dropdown-toggle:active, .dropdown-toggle:focus {
+    box-shadow: none;
+    border: none;
+    outline: 0!important;
+  }

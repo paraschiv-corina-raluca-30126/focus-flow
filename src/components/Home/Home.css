@@ -1,0 +1,24 @@
+.homeContainer{
+    width:calc(100% - 240px)!important;
+    display: flex;
+    color:red;
+    position:absolute;
+
+}
+
+.addButton{
+   padding: 10px;
+    border-radius:10px;
+    border: none;
+    background-color: #111;
+    color:white;
+    position: absolute;
+   
+    right: 25px;
+   margin: 10px;
+    cursor: pointer;
+}
+
+.addButton:hover{
+    content:none;
+}
